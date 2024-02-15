@@ -28,6 +28,7 @@ Prerequisites: Node.js, NPM
 ## **Configuration**
 
 **User Agents:** Modify the userAgents array in index.js to include more or different user agent strings.
+
 **SMTP Settings:** Update the Nodemailer transporter settings in index.js with your email service provider's details.
 
 ## **TO DO:**
