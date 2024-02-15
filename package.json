@@ -1,0 +1,28 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "This is a webscraper written in Java Script.",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rharper4/JSWebScrape.git"
+  },
+  "author": "Robert Harper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rharper4/JSWebScrape/issues"
+  },
+  "homepage": "https://github.com/rharper4/JSWebScrape#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.9",
+    "nodemon": "^3.0.3",
+    "puppeteer": "^22.0.0"
+  }
+}
