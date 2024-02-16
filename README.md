@@ -8,7 +8,9 @@ A Node.js application designed to scrape job postings from Indeed. It utilizes r
 ## **Features**
 
 **Rotating User Agents:** Helps in mimicking requests from different browsers to reduce the chance of being blocked.
+
 **Cheerio-based Scraping:** Efficiently parses HTML to extract job details.
+
 **Email Integration:** Sends a digest of scraped job postings via email.
 
 
